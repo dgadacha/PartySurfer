@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "840794639351",
+    "project_id": "partysurfer-1951d",
+    "storage_bucket": "partysurfer-1951d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840794639351:android:0c0373a7a0a067c062bcf2",
+        "android_client_info": {
+          "package_name": "nc.tealforge.partysurfer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840794639351-usf72cqc69921cn3u00hlhvr6v6vo2i3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByDWTQjrIRncJWMhGXWu_9WOynqjxldsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840794639351-usf72cqc69921cn3u00hlhvr6v6vo2i3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
